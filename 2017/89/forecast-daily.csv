@@ -1,0 +1,2 @@
+time,summary,icon,sunriseTime,sunsetTime,moonPhase,precipIntensity,precipIntensityMax,precipProbability,temperatureMin,temperatureMinTime,temperatureMax,temperatureMaxTime,apparentTemperatureMin,apparentTemperatureMinTime,apparentTemperatureMax,apparentTemperatureMaxTime,dewPoint,humidity,windSpeed,windBearing,cloudCover,pressure,ozone
+2017-03-29 13:00:00,Partly cloudy starting in the evening.,partly-cloudy-night,1490831839,1490877190,0.08,0,0,0,38.22,1490828400,61.92,1490868000,34.31,1490832000,61.92,1490868000,24.83,0.38,4.59,76,0.27,1020.85,314.68

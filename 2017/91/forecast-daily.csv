@@ -1,0 +1,2 @@
+time,summary,icon,sunriseTime,sunsetTime,moonPhase,precipIntensity,precipIntensityMax,precipProbability,temperatureMin,temperatureMinTime,temperatureMax,temperatureMaxTime,apparentTemperatureMin,apparentTemperatureMinTime,apparentTemperatureMax,apparentTemperatureMaxTime,dewPoint,humidity,windSpeed,windBearing,cloudCover,pressure,ozone
+2017-03-31 13:00:00,Mostly cloudy throughout the day.,partly-cloudy-day,1491004434,1491050121,0.15,0,0,0,40.16,1491001200,66.32,1491040800,38.84,1490997600,66.32,1491040800,26.77,0.38,1.07,335,0.61,1016.16,321.51

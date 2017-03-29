@@ -1,0 +1,2 @@
+time,summary,icon,sunriseTime,sunsetTime,moonPhase,precipIntensity,precipIntensityMax,precipProbability,temperatureMin,temperatureMinTime,temperatureMax,temperatureMaxTime,apparentTemperatureMin,apparentTemperatureMinTime,apparentTemperatureMax,apparentTemperatureMaxTime,dewPoint,humidity,windSpeed,windBearing,cloudCover,pressure,ozone
+2017-04-01 13:00:00,Partly cloudy in the morning.,partly-cloudy-day,1491090731,1491136587,0.19,0,0,0,44.29,1491087600,65.11,1491130800,41.43,1491087600,65.11,1491130800,27.37,0.36,1.71,293,0.3,1013.72,329.55

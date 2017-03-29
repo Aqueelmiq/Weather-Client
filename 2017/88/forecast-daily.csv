@@ -1,0 +1,2 @@
+time,summary,icon,sunriseTime,sunsetTime,moonPhase,precipIntensity,precipIntensityMax,precipProbability,temperatureMin,temperatureMinTime,temperatureMax,temperatureMaxTime,apparentTemperatureMin,apparentTemperatureMinTime,apparentTemperatureMax,apparentTemperatureMaxTime,dewPoint,humidity,windSpeed,windBearing,cloudCover,pressure,ozone
+2017-03-28 13:00:00,Partly cloudy overnight.,partly-cloudy-night,1490745542,1490790725,0.04,0,0,0,36.35,1490745600,58.44,1490781600,36.35,1490745600,58.44,1490781600,21.04,0.35,1.54,242,0.12,1021.15,327.44
